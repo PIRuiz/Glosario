@@ -1,2 +1,2 @@
 # Atributo 
-Una etiqueta en el lenguaje de marcas es un texto codificado entre los símbolos < y >, que se usa para definir la estructura o el significado de un documento, como una página web. Cada etiqueta indica al procesador o al navegador qué información contiene el texto y cómo debe ser interpretada o mostrada. Un ejemplo común es el HTML, que utiliza etiquetas como <p> para un párrafo o <h1> para un título, y se emplea para organizar el contenido de los sitios web
+Valor adicional que permiten refinar el comportamiento de una Etiqueta. Suelen estar compuestos por un nombre y por un valor para ajustar el comportamiento.
